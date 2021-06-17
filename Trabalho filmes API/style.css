@@ -1,0 +1,77 @@
+#cards{
+    margin: 0px;
+    margin-bottom: 30px;
+}
+
+#tela.row{
+    padding: 10px;
+}
+
+.text1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.topcine{
+    display: inline-block;
+    align-items: center;
+}
+
+.rodape{
+    background-color:#f8f9fa ;
+    color: #000000;
+    padding: 10px;
+    padding-top: 15px;
+    margin-top: 15px
+  }
+  .logobot img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .Copyright{
+    position: relative;
+    text-align: center;
+    line-height: 90px;
+  }
+
+  .logo{
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 50px;
+      
+  }
+
+  .d-flex{
+      margin-right: 50px;
+  }
+
+  body{
+      background-color: rgba(216, 216, 216, 0.459);
+  }
+
+  #cards{
+      padding: 30px;
+      text-align: center;
+}
+.releaseDate{
+    margin-bottom: 0px;
+}
+
+.card-title{
+    margin-bottom: 15px;
+}
+
+.search{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.pesquisar{
+    text-align: center;
+    margin: 50px 0px;
+}
+.subtext{
+    text-align: center;
+}
